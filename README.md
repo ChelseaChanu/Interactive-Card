@@ -3,11 +3,15 @@
 This is a solution to the [Interactive card details form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
-Interactive card design:
-  Building card for front-end improvment.
-Screenshots:
-  - [Desktop view]("https://user-images.githubusercontent.com/88430660/227848802-d92f6a2b-038d-4889-9bc0-f169bd24ac6b.png")
-  -[Mobile view]("https://user-images.githubusercontent.com/88430660/227848882-b0c5395b-86e2-4f06-96ee-8cd7a4cadba9.png)
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+
+## Overview
 
 ### The challenge
 
@@ -20,9 +24,12 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover, active, and focus states for interactive elements on the page
 
-### Links
-- Live Site URL: [Add live site URL here](#https://chelseachanu.github.io/Interactive-Card/)
+### Screenshot
+[Desktop view](./result%20images/Card%20desktop%20view.png)
+[Mobile view](./result%20images/Card%20mobile%20view.png)
 
+### Links
+- Live Site URL: [live url](https://chelseachanu.github.io/Interactive-Card/)
 
 ### Built with
 
@@ -30,7 +37,6 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
 - JavaScript
 
 ### What I learned
