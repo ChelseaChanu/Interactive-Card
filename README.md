@@ -25,8 +25,8 @@ Users should be able to:
 - See hover, active, and focus states for interactive elements on the page
 
 ### Screenshot
-[Desktop view](./result%20images/Card%20desktop%20view.png)
-[Mobile view](./result%20images/Card%20mobile%20view.png)
+![Desktop view](./result%20images/Card%20desktop%20view.png)
+![Mobile view](./result%20images/Card%20mobile%20view.png)
 
 ### Links
 - Live Site URL: [live url](https://chelseachanu.github.io/Interactive-Card/)
